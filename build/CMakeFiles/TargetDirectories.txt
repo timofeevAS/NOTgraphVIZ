@@ -1,4 +1,0 @@
-/home/smokehappiest/Desktop/NOTgraphVIZ/build/CMakeFiles/NOTgraphVIZ.dir
-/home/smokehappiest/Desktop/NOTgraphVIZ/build/CMakeFiles/edit_cache.dir
-/home/smokehappiest/Desktop/NOTgraphVIZ/build/CMakeFiles/rebuild_cache.dir
-/home/smokehappiest/Desktop/NOTgraphVIZ/build/CMakeFiles/NOTgraphVIZ_autogen.dir
